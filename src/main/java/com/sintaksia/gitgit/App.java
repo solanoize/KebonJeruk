@@ -8,5 +8,6 @@ public class App {
     public static void main(String[] args) {
         System.out.println("Hello World Fukato.");
         System.out.println("Hello World Cumi horee ini asik nih!");
+        System.out.println("Hello World, iya nih asikkp parahh");
     }
 }
