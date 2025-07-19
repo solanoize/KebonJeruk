@@ -17,5 +17,7 @@ public class App
         System.out.println("Hello World Fukato.");
         System.out.println("Hello World Cumi horee ini asik nih!");
         System.out.println("Hello World, iya nih asikkp parahh");
+        System.out.println("Hello World, Izzah");
     }
+
 }
