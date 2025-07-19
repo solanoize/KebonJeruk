@@ -11,4 +11,6 @@ public class App
         System.out.println( "Hello World! - Izzah" );
         System.out.println("Hello World Fukato.");
         System.out.println("Hello World Cumi!");
+        System.out.println("Hello World Cumi horee ini asik nih!");
+    }
 }
